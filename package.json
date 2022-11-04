@@ -1,0 +1,22 @@
+{
+  "name": "gugugi",
+  "version": "1.0.0",
+  "description": "show my name everywhere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuGuKhin6666/gugugi.git"
+  },
+  "keywords": [
+    "gugugi"
+  ],
+  "author": "Si Thu Kyaw Tint",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuGuKhin6666/gugugi/issues"
+  },
+  "homepage": "https://github.com/GuGuKhin6666/gugugi#readme"
+}
